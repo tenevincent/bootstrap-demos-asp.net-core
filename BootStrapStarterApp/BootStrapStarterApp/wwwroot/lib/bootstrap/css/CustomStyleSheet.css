@@ -10,3 +10,33 @@
 .image-resize{
     height : 200px;
 }
+
+
+.sidebarContent {
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+    min-height: 150px;
+    margin-bottom: 10px;
+}
+
+.mainContent {
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+    min-height: 310px;
+}
+
+
+.customDiv {
+    background-color: silver;
+    text-align: center;
+    font-size: large;
+    min-height: 150px;
+}
+
+
+img{
+    width : 250px;
+    height : 250px;
+}
